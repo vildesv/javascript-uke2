@@ -1,6 +1,6 @@
 ## Javascript Basic Oppgave 2: Funksjoner & Metoder
 
-Lag en javascript fil og kopier koden under inn i den. Dine løsninger skal legges inn mellom kommentarblokkene. Oppgaven skal leveres som en link til GitHub repo med din besvarelse.
+Lag en javascript fil og kopier koden under inn i den. Dine løsninger skal legges inn mellom kommentarblokkene. 
 
 ---
 
