@@ -130,7 +130,7 @@ av arrayet og returner det oppdaterte arrayet.
 > 
 > ``` sh
 > Hvis parameteret er et tall:
-> Doble verdien, konverter den til en string, og returner den med "😎" lagt til i starten og slutten.
+> Doble verdien, konverter til en string, og returner med "😎" lagt til i starten og slutten.
 > ```
 >
 > ``` sh
